@@ -12,6 +12,7 @@ I enjoy working across different layers of technology — from **programming and
 - 📊 Experience with **data analysis, database management, SQL, research, technical documentation, and software development**
 - 🔬 Research experience in **Machine Learning and data-driven analysis**, including a journal paper on **Leukemia Cancer Prediction using WEKA**
 - 🌐 Built projects spanning **secure application development, full-stack web development, Java applications, authentication, databases, and access-controlled systems**
+- 🎓 **Currently pursuing MCA** at **IMCC, Pune**, affiliated with **Savitribai Phule Pune University**
 - 🎓 **BCA — Data Security & System Administration**, Symbiosis Institute of Computer Studies and Research (SICSR), Pune
 - 🏫 Academic foundation in **Commerce with Information Practices**, with **90.8% in Class 12** and **95/100 in Information Practices (Python & MySQL)**
 - 🧪 Worked as a **Research Associate (Internship)** at the **Symbiosis Centre for European Studies**, contributing to academic research, data analysis, report preparation, and international education/policy projects
@@ -55,7 +56,7 @@ Authored a **journal paper** using WEKA machine-learning algorithms to identify 
 
 ### 🔭 Currently Building
 
-At **DaemonTrive Technologies**, I work on cybersecurity and Linux security engineering around:
+At **DaemonTrive Technologies**, I'm working on cybersecurity and Linux security engineering around:
 
 `Behavioural Trust` · `eBPF` · `Linux Security` · `LSM`  
 `Runtime Protection` · `Deception` · `Cryptographic Auditability` · `Rust`
