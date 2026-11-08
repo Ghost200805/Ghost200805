@@ -48,9 +48,6 @@ A secure **Python + MySQL** application featuring separate client and administra
 **Collaborative Restaurant Website**  
 A responsive full-stack project developed using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
-**BMI Calculator — Java**  
-A Java-based utility application for calculating BMI from user-provided inputs.
-
 **Leukemia Cancer Prediction — WEKA**  
 Authored a **journal paper** using WEKA machine-learning algorithms to identify key biomarkers associated with early detection of leukemia cancer.
 
